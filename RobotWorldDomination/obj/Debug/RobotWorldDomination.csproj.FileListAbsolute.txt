@@ -1,0 +1,9 @@
+Z:\Visual Studio 2015\Projects\RobotWorldDomination\RobotWorldDomination\bin\Debug\RobotWorldDomination.exe.config
+Z:\Visual Studio 2015\Projects\RobotWorldDomination\RobotWorldDomination\bin\Debug\RobotWorldDomination.exe
+Z:\Visual Studio 2015\Projects\RobotWorldDomination\RobotWorldDomination\bin\Debug\RobotWorldDomination.pdb
+Z:\Visual Studio 2015\Projects\RobotWorldDomination\RobotWorldDomination\obj\Debug\RobotWorldDomination.csprojResolveAssemblyReference.cache
+Z:\Visual Studio 2015\Projects\RobotWorldDomination\RobotWorldDomination\obj\Debug\RobotWorldDomination.exe
+Z:\Visual Studio 2015\Projects\RobotWorldDomination\RobotWorldDomination\obj\Debug\RobotWorldDomination.pdb
+C:\Users\janell\Source\Repos\ITPDayTwo-FA2016-36-1501-02\RobotWorldDomination\bin\Debug\RobotWorldDomination.exe.config
+C:\Users\janell\Source\Repos\ITPDayTwo-FA2016-36-1501-02\RobotWorldDomination\obj\Debug\RobotWorldDomination.exe
+C:\Users\janell\Source\Repos\ITPDayTwo-FA2016-36-1501-02\RobotWorldDomination\obj\Debug\RobotWorldDomination.pdb
